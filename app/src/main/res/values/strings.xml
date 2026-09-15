@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">index</string>
+    <string name="happy_birthday_john_text">Happy Birthday John!</string>
+    <string name="sender_signature_text">From Bob</string>
 </resources>
